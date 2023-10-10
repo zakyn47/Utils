@@ -4,3 +4,5 @@ __pychache__/
 emails.txt
 links.txt
 python-client/
+geckodriver.log
+webcrawler.log
