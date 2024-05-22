@@ -94,6 +94,6 @@ while running:
         draw_win()
 
     pygame.display.update()
-    pygame.time.delay(99)
+    pygame.time.delay(98)
 
 pygame.quit()
